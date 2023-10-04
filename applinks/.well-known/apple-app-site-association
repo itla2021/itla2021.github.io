@@ -1,0 +1,18 @@
+{
+   "applinks": {
+      "details": [
+         {
+            "appIDs": [ "7B432Q3AMA.com.aaron.hermesFlutter", "7B432Q3AMA.com.l-a.hermes.prod" ],
+            "components": [
+               {
+                  "/": "/download_app.html",
+                  "comment": "Download app url"
+               }
+            ]
+         }
+      ]
+   },
+   "webcredentials": {
+      "apps": [ "7B432Q3AMA.com.l-a.hermes.prod" ]
+   }
+ }
